@@ -1,0 +1,26 @@
+{
+  "name": "habitat",
+  "version": "1.0.0",
+  "description": "This is a demonstration project for the amazing [Wagtail CMS](https://github.com/wagtail/wagtail).",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wagtail/habitat.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/wagtail/habitat/issues"
+  },
+  "homepage": "https://github.com/wagtail/habitat#readme",
+  "dependencies": {
+    "pa11y": "^5.1.0",
+    "puppeteer": "^1.17.0"
+  }
+}
